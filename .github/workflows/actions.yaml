@@ -36,4 +36,4 @@ jobs:
 
       - name: Push Image to ECR
         run: |
-          docker push ACCOUNT_ID.dkr.ecr.ap-south-1.amazonaws.com/my-app:latest
+          docker push 279112112893.dkr.ecr.us-east-1.amazonaws.com/actions:v1
